@@ -1,4 +1,4 @@
-# AMT-Reaper-Tools
+# Reaper-Tools
 
 A collection of scripts developed with the help of AI, providing handy tools and utilities for enhancing productivity in Reaper.
 
